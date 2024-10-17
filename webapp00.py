@@ -11,7 +11,7 @@ Configurar_Pagina("Exemplo 1",
                     "©️")
 
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
-st.title("MEU 1º WEB APP STREAMLIT")
+st.title("não é o primeito mais é o decimo")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
 st.header("teste10")
